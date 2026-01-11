@@ -13,7 +13,7 @@ The system replaces manual Excel tracking with an automated pipeline that flags 
 
 ### **📊 The Dashboard (Power BI)**
 *A dark-mode, glassmorphism-styled dashboard for executive monitoring.*
-
+![Dashboard Screenshot](https://raw.githubusercontent.com/Invictus596/Vendor-Data-Analysis/main/screenshots/PowerBI_Dashboard.png)
 **Key Features:**
 * **KPI Cards:** Tracks total active vendors and average fleet performance.
 * **Top/Bottom Analysis:** instantly highlights the top 5 best and worst partners.
