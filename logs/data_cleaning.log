@@ -1,0 +1,16 @@
+2026-01-11 12:36:03,738 - INFO - Starting Phase 2: Data Cleaning...
+2026-01-11 12:36:17,430 - INFO - Raw 'purchases' loaded. Rows: 2372474
+2026-01-11 12:36:17,432 - ERROR - Error cleaning purchases: 'order_date'
+2026-01-11 12:36:18,000 - INFO - Raw 'vendor_invoice' loaded. Rows: 5543
+2026-01-11 12:36:18,001 - ERROR - Error cleaning vendor_invoice: 'invoice_date'
+2026-01-11 12:36:19,553 - INFO - Successfully saved 'cleaned_begin_inventory'.
+2026-01-11 12:36:21,541 - INFO - Successfully saved 'cleaned_end_inventory'.
+2026-01-11 12:36:21,575 - INFO - Phase 2 Complete! Cleaned tables created.
+2026-01-11 12:38:12,681 - INFO - Starting Phase 2: Data Cleaning (Attempt 2)...
+2026-01-11 12:38:25,851 - INFO - Raw 'purchases' loaded. Rows: 2372474
+2026-01-11 12:39:05,173 - INFO -  Successfully saved 'cleaned_purchases'. Final Rows: 2372474
+2026-01-11 12:39:05,576 - INFO - Raw 'vendor_invoice' loaded. Rows: 5543
+2026-01-11 12:39:05,650 - INFO -  Successfully saved 'cleaned_vendor_invoice'. Final Rows: 5543
+2026-01-11 12:39:07,891 - INFO -  Successfully saved 'cleaned_begin_inventory'.
+2026-01-11 12:39:10,512 - INFO -  Successfully saved 'cleaned_end_inventory'.
+2026-01-11 12:39:10,547 - INFO - Phase 2 Complete! Cleaned tables created.

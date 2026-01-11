@@ -1,0 +1,9 @@
+2026-01-11 12:26:27,665 - INFO - Database engine created successfully at: ../sql/vendor_analytics.db
+2026-01-11 12:26:27,665 - INFO - Starting Data Ingestion Process...
+2026-01-11 12:26:29,064 - INFO - Loaded 'begin_inventory.csv' into table 'begin_inventory' | Rows: 206529
+2026-01-11 12:26:30,491 - INFO - Loaded 'end_inventory.csv' into table 'end_inventory' | Rows: 224489
+2026-01-11 12:26:30,588 - INFO - Loaded 'purchase_prices.csv' into table 'purchase_prices' | Rows: 12261
+2026-01-11 12:26:54,423 - INFO - Loaded 'purchases.csv' into table 'purchases' | Rows: 2372474
+2026-01-11 12:30:35,463 - INFO - Loaded 'sales.csv' into table 'sales' | Rows: 12825363
+2026-01-11 12:30:36,425 - INFO - Loaded 'vendor_invoice.csv' into table 'vendor_invoice' | Rows: 5543
+2026-01-11 12:30:36,430 - INFO - Phase 1 Complete! Database ingestion finished.

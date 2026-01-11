@@ -1,0 +1,18 @@
+VENDOR PERFORMANCE ANALYTICS - EXECUTIVE SUMMARY
+================================================
+
+1. OVERVIEW
+Total Vendors Analyzed: 129
+Premium Partners: 0
+Vendors Needing Improvement: 15
+
+2. TOP PERFORMER
+Vendor Name: DIAGEO NORTH AMERICA INC   
+Score: 83.80 / 100
+Category: Standard
+Avg Lead Time: 7.5 days
+
+3. PERFORMANCE DISTRIBUTION
+Most vendors fall into the 'Standard' category. 
+Action Recommended: Negotiate better terms with Premium vendors.
+Action Recommended: Audit 'Needs Improvement' vendors for potential replacement.
